@@ -10,6 +10,7 @@ This project focuses on analyzing sales data to extract meaningful insights and 
 
 * Python (Pandas, NumPy, Matplotlib)
 * Power BI
+* Excel / CSV
 
 ---
 
