@@ -6,7 +6,7 @@ This project focuses on analyzing sales data to extract meaningful insights and 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies 
 
 * Python (Pandas, NumPy, Matplotlib)
 * Power BI
