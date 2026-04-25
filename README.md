@@ -61,12 +61,6 @@ Sales-Data-Analysis-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard_preview.png)
-
----
-
 ## 🚀 Conclusion
 
 This project demonstrates end-to-end data analysis skills including data cleaning, analysis, and visualization. It helps in understanding business performance and making data-driven decisions.
